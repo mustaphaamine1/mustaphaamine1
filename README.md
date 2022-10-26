@@ -14,21 +14,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mustapha AMINE </h1>
 <h3 align="center">Data Scientist | Data Analyst </h3>
 <p>
-  <h3 align="center">
     
     <a href="mailto:aminemustaphaa1@gmail.com" >Mail<i class="bx bxl-gmail"></i></a>
     <a href="mustaphaamine1.github.io" >Website<i class="bx bxl-github"></i></a>
     <a href="https://telegram.me/Mustapha503" >Telegram<i class="bx bxl-telegram"></i></a>
     <a href="https://wa.me/212606422635" >Whatsapp<i class="bx bxl-whatsapp"></i></a>
     <a href="https://www.linkedin.com/in/mustapha-amine/" >LinkedIn<i class="bx bxl-linkedin"></i></a>
-  </h3>
 </p>
 
 
 
 <p align="center">
   <em>
-    Hello, I am Mustapha AMINE a <b>final year</b> Data Science graduate from <a href="https://uom.lk/"> <b>Mohammed VI Polytechnic University (UM6P)</b>, Morocco.</a>. <br>
+    Hello, I am Mustapha AMINE a <b>final year</b> Data Science graduate from <a href="https://um6p.ma"> <b>Mohammed VI Polytechnic University (UM6P)</b>, Morocco.</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Data Analyst</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
