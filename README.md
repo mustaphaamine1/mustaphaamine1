@@ -7,8 +7,8 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-21-blue" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20French-brightgreen" />
+  <img src="https://img.shields.io/badge/Home-%20Tighir,Morocco" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20French%20%26%20Arabe-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mustapha AMINE </h1>
