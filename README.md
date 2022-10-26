@@ -37,7 +37,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***Hard *** or ***TeamWorker*** 😊 <br>
+✔  ***Creative *** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently pursuing a master's degree in **Quantitative and Financial Modelling**<br>
 ✔ I’m currently learning about **deep learning & NLP**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
