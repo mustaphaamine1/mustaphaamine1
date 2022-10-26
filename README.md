@@ -14,9 +14,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mustapha AMINE </h1>
 <h3 align="center">Data Scientist | Data Analyst </h3>
 <p>
-<a href="mailto:aminemustaphaa1@gmail.com" class="mail"><i class="bx bxl-gmail"></i></a>
-<a href="https://github.com/mustaphaamine503" class="github"><i class="bx bxl-github"></i></a>
-<a href="https://telegram.me/Mustapha503" class="telegram"><i class="bx bxl-telegram"></i></a>
+<a href="mailto:aminemustaphaa1@gmail.com" class="mail">jhb<i class="bx bxl-gmail"></i></a>
+<a href="https://github.com/mustaphaamine503" class="github">jhbj<i class="bx bxl-github"></i></a>
+<a href="https://telegram.me/Mustapha503" class="telegram"><knkjni class="bx bxl-telegram"></i></a>
 <a href="https://wa.me/212606422635" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
 <a href="https://www.linkedin.com/in/mustapha-amine/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
 </p>
