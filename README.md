@@ -13,14 +13,13 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Mustapha AMINE </h1>
 <h3 align="center">Data Scientist | Data Analyst </h3>
-<p>
-    
-    <a href="mailto:aminemustaphaa1@gmail.com" >Mail<i class="bx bxl-gmail"></i></a>
-    <a href="mustaphaamine1.github.io" >Website<i class="bx bxl-github"></i></a>
-    <a href="https://telegram.me/Mustapha503" >Telegram<i class="bx bxl-telegram"></i></a>
-    <a href="https://wa.me/212606422635" >Whatsapp<i class="bx bxl-whatsapp"></i></a>
-    <a href="https://www.linkedin.com/in/mustapha-amine/" >LinkedIn<i class="bx bxl-linkedin"></i></a>
-</p>
+
+<a href="mailto:aminemustaphaa1@gmail.com" >Mail<i class="bx bxl-gmail"></i></a>
+<a href="mustaphaamine1.github.io" >Website<i class="bx bxl-github"></i></a>
+<a href="https://telegram.me/Mustapha503" >Telegram<i class="bx bxl-telegram"></i></a>
+<a href="https://wa.me/212606422635" >Whatsapp<i class="bx bxl-whatsapp"></i></a>
+<a href="https://www.linkedin.com/in/mustapha-amine/" >LinkedIn<i class="bx bxl-linkedin"></i></a>
+
 
 
 
